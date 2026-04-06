@@ -22,13 +22,6 @@
        </nav>
    </header>
 
-   <!-- Home Section -->
-   <section id="home">
-       <h2>Welcome to My Website</h2>
-       <p>
-           Hello! I graduated from Seneca College with a diploma in business and am currently studying Economics in university.
-       </p>
-   </section>
 
    <!-- About Section -->
    <section id="about">
