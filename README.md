@@ -14,6 +14,9 @@
            <h1>Anna Shu Yu Chen</h1>
            <ul>
                <li><a href="#about">About</a></li>
+              <li><a href="#education">Education</a></li>
+              <li><a href="#skills">Skills</a></li>
+              <li><a href="#hobbies">Hobbies & Interests</a></li>
                <li><a href="#contact">Contact</a></li>
            </ul>
        </nav>
@@ -24,7 +27,6 @@
        <h2>Welcome to My Website</h2>
        <p>
            Hello! I graduated from Seneca College with a diploma in business and am currently studying Economics in university.
-           I enjoy a variety of hobbies including playing piano, gaming, reading novels, swimming, and watching streamers.
        </p>
    </section>
 
@@ -34,7 +36,6 @@
        <p>
            I am a business diploma graduate from Seneca College and am currently pursuing further studies in Economics at York university.
            I am interested in expanding my knowledge in both business and economics while continuing to grow academically and professionally.
-           Outside of my studies, I enjoy playing piano, gaming, reading novels, swimming, and watching online streamers.
        </p>
    </section>
    
@@ -48,6 +49,32 @@
            York University (2024 - Present) – Studying Economics
        </p>
    </section>
+
+<!-- Skills Section -->
+<section id="skills">
+   <h2>Skills</h2>
+<ul>
+<li>Basic Microsoft Office</li>
+<li>Basic Python</li>
+<li>Collaboration</li>
+<li>Teamwork</li>
+<li>Flexibility</li>
+<li>Adaptability</li>
+<li>Positive Attitude</li>
+</ul>
+</section>
+
+<!-- Hobbies Section -->
+<section id="hobbies">
+<h2>Hobbies & Interests</h2>
+<ul>
+<li>Playing piano</li>
+<li>Gaming</li>
+<li>Reading novels</li>
+<li>Swimming</li>
+<li>Watching streamers</li>
+</ul>
+</section>
 
    <!-- Contact Section -->
    <section id="contact">
