@@ -37,6 +37,17 @@
            Outside of my studies, I enjoy playing piano, gaming, reading novels, swimming, and watching online streamers.
        </p>
    </section>
+   
+<!-- Education Section -->
+   <section id="education">
+       <h2>Education</h2>
+       <p>
+           Seneca College (2022 - 2024) – Diploma in Business
+       </p>
+       <p>
+           York University (2024 - Present) – Studying Economics
+       </p>
+   </section>
 
    <!-- Contact Section -->
    <section id="contact">
