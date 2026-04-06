@@ -75,10 +75,6 @@
        <p>Email: canna045@gmail.com</p> 
    </section>
 
-   <!-- Footer -->
-   <footer>
-       <p>© 2026 My Website</p>
-   </footer>
 
 </body>
 </html>
