@@ -27,7 +27,7 @@
    <section id="about">
        <h2>About Me</h2>
        <p>
-           I am a business diploma graduate from Seneca College and am currently pursuing further studies in Economics at York university.
+           I am a business diploma graduate from Seneca College and am currently pursuing further studies in Economics at York University.
            I am interested in expanding my knowledge in both business and economics while continuing to grow academically and professionally.
        </p>
    </section>
