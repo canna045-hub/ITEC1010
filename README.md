@@ -4,14 +4,17 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <title>Anna Shu Yu Chen</title>
-   <link rel="stylesheet" href="style.css">
-</head>
-<body>
+
+  <style>
 body {
 margin: 0;
 font-family: Arial, sans-serif;
-background-color: #e6f2ff; /* 👈 THIS is the light blue */
+background-color: #e6f2ff; /* light blue */
 }
+</style>
+
+<link rel="stylesheet" href="style.css">
+</head>
 
    <!-- Navigation Bar -->
    <header>
